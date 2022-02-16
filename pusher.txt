@@ -1,0 +1,12 @@
+REALTIME web apps with Pusher & Laravel
+https://www.youtube.com/watch?v=l44IF9fBNOs
+https://www.youtube.com/watch?v=Y4JE93FYmRM
+i)Install project
+ii)composer require pusher/pusher-php-server
+iii)create Events 
+iV) php artisan make:event myEvent
+v)BROADCAST_DRIVER=pusher
+vi)PUSHER_APP_ID=1348521
+PUSHER_APP_KEY=8f2c72fd3627f45e0429
+PUSHER_APP_SECRET=3e883714df699ad49e41
+PUSHER_APP_CLUSTER=ap2
